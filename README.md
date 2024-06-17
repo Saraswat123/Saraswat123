@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Saraswat123
-- 👀 I’m interested in web ,android Development,
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate for web design, backend & frontend software development 
+- A Software Developer
+-  Integrating Code with real life problem  to get efficient Solution.
 - 📫 How to reach me-- saraswatdas94@gmail.com
 
 <!---
