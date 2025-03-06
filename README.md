@@ -1,12 +1,12 @@
 👋 Hi, I’m **@Saraswat123**  
-💻 **Software Developer** | 🚀 **Problem Solver** | 🌐 **Integrating Code with Real-Life Solutions**  
+💻 **Software Engineer** | 🚀 **Problem Solver** | 🌐 **Integrating Code with Real-Life Solutions**  
 
 ---
 
 ### **About Me**  
 I’m passionate about building efficient and scalable software solutions that solve real-world problems. I love diving into new technologies, collaborating with others, and creating impactful projects.  
 
-- 🔭 **Currently Working On**: []  
+- 🔭 **Currently Working On**: Decetralization Data encryption with AI Governed. 
 - 🌱 **Learning**: [What you're currently learning, e.g., Solana, Rust, Blockchain, etc.]  
 - 👯 **Looking to Collaborate On**: [Your interests, e.g., Open Source, Web3, etc.]  
 - 💬 **Ask Me About**: Software Development, Problem Solving,  
@@ -50,24 +50,24 @@ Here are some of the technologies I work with:
 ### **🚀 Featured Projects**  
 Here are some of my favorite projects:  
 
-- **[Project 1](https://github.com/Saraswat123/Project1)**: A brief description of the project.  
-- **[Project 2](https://github.com/Saraswat123/Project2)**: A brief description of the project.  
-- **[Project 3](https://github.com/Saraswat123/Project3)**: A brief description of the project.  
+- **[Aquafysystem](https://github.com/Saraswat123/AquafySystems-SIH-)**: A decentralized, retrofittable greywater treatment unit with IoT-ML-based smart Application monitoring system and advanced filtration for sustainable water reuse.  
+- **[AgroTech](https://github.com/Saraswat123/AgroTech-Farmers-)**: A compact IoT-ML-powered system with soil parameter sensors for real-time crop optimization, offering decentralized, data-driven farmer-customer recommendations and direct market access. 
+- **[OceanTech](https://github.com/Saraswat123/OCF--Ocean-Tech)**: A lightweight device for collecting ocean wave parameters to Manage coastal risks like land sliding and bridge collapse.
 
 ---
 
 ### **📚 Blog Posts**  
 I occasionally write about tech and programming. Check out my latest posts:  
-- [Post 1](https://example.com)  
-- [Post 2](https://example.com)  
+- [AI — Governed ZK-SNARKs & L2 Scaling with CI/CD Pipelines : A Decentralized Infrastructure Framework](https://medium.com/@saraswatdas94/ai-governed-zk-snarks-l2-scaling-with-ci-cd-pipelines-a-decentralized-infrastructure-framewor-b78d760be181.)  
+- [SW/HW Co-optimization Strategy for Large Language Models (LLMs).](https://medium.com/@saraswatdas94/sw-hw-co-optimization-strategy-for-large-language-models-llms-686388ea2a58)  
 
 ---
 
 ### **🔗 Connect with Me**  
 Let’s connect and collaborate!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saraswat-das/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SaraswatDas13)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saraswat123)  
 
 ---
