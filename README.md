@@ -7,8 +7,8 @@
 I’m passionate about building efficient and scalable software solutions that solve real-world problems. I love diving into new technologies, collaborating with others, and creating impactful projects.  
 
 - 🔭 **Currently Working On**: Decetralization Data encryption with AI Governed. 
-- 🌱 **Learning**: [What you're currently learning, e.g., Solana, Rust, Blockchain, etc.]  
-- 👯 **Looking to Collaborate On**: [Your interests, e.g., Open Source, Web3, etc.]  
+- 🌱 **Learning**:  [Solana, Rust, APU, VM ]  
+- 👯 **Looking to Collaborate On**: [ Open Source, Web3, ]  
 - 💬 **Ask Me About**: Software Development, Problem Solving,  
 - 📫 **How to Reach Me**: [saraswatdas94@gmail.com](saraswatdas94@gmail.com)  
 - 😄 **Pronouns**: He/Him  
