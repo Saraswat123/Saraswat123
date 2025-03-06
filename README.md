@@ -6,13 +6,13 @@
 ### **About Me**  
 I’m passionate about building efficient and scalable software solutions that solve real-world problems. I love diving into new technologies, collaborating with others, and creating impactful projects.  
 
-- 🔭 **Currently Working On**: Decetralization Data encryption with AI Governed. 
-- 🌱 **Learning**:  [Solana, Rust, APU, VM ]  
-- 👯 **Looking to Collaborate On**: [ Open Source, Web3, ]  
-- 💬 **Ask Me About**: Software Development, Problem Solving,  
-- 📫 **How to Reach Me**: [saraswatdas94@gmail.com](saraswatdas94@gmail.com)  
+- 🔭 **Currently Working On**: Decentralized Data Encryption with AI Governance.  
+- 🌱 **Learning**: Solana, Rust, APU, VM, Go.  
+- 👯 **Looking to Collaborate On**: Open Source, Web3, Research Partnerships, Hackathons Challenge, Cross-Disciplinary Projects-ML.  
+- 💬 **Ask Me About**: Software Development, Problem Solving, IoT, Blockchain,ML.  
+- 📫 **How to Reach Me**: [saraswatdas94@gmail.com](mailto:saraswatdas94@gmail.com)  
 - 😄 **Pronouns**: He/Him  
-- ⚡ **Fun Fact**:  "I can solve a Rubik's Cube in under 2 minutes!" 
+- ⚡ **Fun Fact**: I can solve a Rubik's Cube in under 2 minutes!  
 
 ---
 
@@ -50,16 +50,26 @@ Here are some of the technologies I work with:
 ### **🚀 Featured Projects**  
 Here are some of my favorite projects:  
 
-- **[Aquafysystem](https://github.com/Saraswat123/AquafySystems-SIH-)**: A decentralized, retrofittable greywater treatment unit with IoT-ML-based smart Application monitoring system and advanced filtration for sustainable water reuse.  
-- **[AgroTech](https://github.com/Saraswat123/AgroTech-Farmers-)**: A compact IoT-ML-powered system with soil parameter sensors for real-time crop optimization, offering decentralized, data-driven farmer-customer recommendations and direct market access. 
-- **[OceanTech](https://github.com/Saraswat123/OCF--Ocean-Tech)**: A lightweight device for collecting ocean wave parameters to Manage coastal risks like land sliding and bridge collapse.
+- **[AquafySystems](https://github.com/Saraswat123/AquafySystems-SIH-)**: A decentralized, retrofittable greywater treatment unit with IoT-ML-based smart application monitoring system and advanced filtration for sustainable water reuse.  
+- **[AgroTech](https://github.com/Saraswat123/AgroTech-Farmers-)**: A compact IoT-ML-powered system with soil parameter sensors for real-time crop optimization, offering decentralized, data-driven farmer-customer recommendations and direct market access.  
+- **[OceanTech](https://github.com/Saraswat123/OCF--Ocean-Tech)**: A lightweight device for collecting ocean wave parameters to manage coastal risks like landslides and bridge collapse.  
+
+---
+
+### **🏆 Achievements**  
+Here are some of my notable achievements:  
+
+- **🏅 Smart India Hackathon (SIH) 2023**: Secured the **Runners-Up** position, competing against 500+ teams nationwide. [Link](https://drive.google.com/file/d/138vVOmZOpTKiLcySsGT2cAORMS2-W4EE/view)  
+- **🏆 Vishwakarma Award 2024**: Achieved the **Champion** title at IIT Hyderabad, competing against 526+ teams, with top 15 finishes at IIT Bombay and IIT Delhi. [Link](https://drive.google.com/file/d/1CYZLiNnKu7OSZ95bbH2qPDFRFYKa8WgL/view?usp=drivesdk)  
+- **🥉 L&T Hackathon Water Challenge 2024**: Secured **top 3** position among 300+ teams nationwide. [Link](https://drive.google.com/file/d/13GEm7mv2zTsS8SaZFLXyjERP5t0Haspt/view)  
+- **Mentorship**: Mentored 500+ students for internal hackathons and served as a mentor for **SIH 2024 Finals**, invited by the Government of India.  
 
 ---
 
 ### **📚 Blog Posts**  
-I occasionally write about tech and programming. Check out my latest posts:  
-- [AI — Governed ZK-SNARKs & L2 Scaling with CI/CD Pipelines : A Decentralized Infrastructure Framework](https://medium.com/@saraswatdas94/ai-governed-zk-snarks-l2-scaling-with-ci-cd-pipelines-a-decentralized-infrastructure-framewor-b78d760be181.)  
-- [SW/HW Co-optimization Strategy for Large Language Models (LLMs).](https://medium.com/@saraswatdas94/sw-hw-co-optimization-strategy-for-large-language-models-llms-686388ea2a58)  
+  Article-Whitepapers-Researchpapers. Check out my latest posts:  
+- [AI-Governed ZK-SNARKs & L2 Scaling with CI/CD Pipelines: A Decentralized Infrastructure Framework](https://medium.com/@saraswatdas94/ai-governed-zk-snarks-l2-scaling-with-ci-cd-pipelines-a-decentralized-infrastructure-framewor-b78d760be181)  
+- [SW/HW Co-optimization Strategy for Large Language Models (LLMs)](https://medium.com/@saraswatdas94/sw-hw-co-optimization-strategy-for-large-language-models-llms-686388ea2a58)  
 
 ---
 
