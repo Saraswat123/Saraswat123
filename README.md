@@ -12,7 +12,7 @@ I’m passionate about building efficient and scalable software solutions that s
 - 💬 **Ask Me About**: Software Development, Problem Solving, IoT, Blockchain,ML.  
 - 📫 **How to Reach Me**: [saraswatdas94@gmail.com](mailto:saraswatdas94@gmail.com)  
 - 😄 **Pronouns**: He/Him  
-- ⚡ **Fun Fact**: I can solve a Rubik's Cube in under 2 minutes!  
+
 
 ---
 
