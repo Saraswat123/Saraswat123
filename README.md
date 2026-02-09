@@ -1,119 +1,177 @@
-👋 Hi, I’m **@Saraswat123**  
-💻 **Software Engineer** | 🚀 **Problem Solver** | 🌐 **Integrating Code with Real-Life Solutions**  
+<div align="center">
+
+# ⚡ L1 Protocol Engineer & Cryptographer
+
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+
+*Building the foundations of decentralized finance*
+
+</div>
 
 ---
 
-### **About Me**  
-I’m passionate about building efficient and scalable software solutions that solve real-world problems. I love diving into new technologies, collaborating with others, and creating impactful projects.  
+## 🔬 About Me
 
-- 🔭 **Currently Working On**: Decentralized Data Encryption with AI Governance.  
-- 🌱 **Learning**: Solana, Rust, APU, VM, Go.  
-- 👯 **Looking to Collaborate On**: Open Source, Web3, Research Partnerships, Hackathons Challenge, Cross-Disciplinary Projects-ML.  
-- 💬 **Ask Me About**: Software Development, Problem Solving, IoT, Blockchain,ML.  
-- 📫 **How to Reach Me**: [saraswatdas94@gmail.com](mailto:saraswatdas94@gmail.com)  
-- 😄 **Pronouns**: He/Him  
+I'm a **Protocol Engineer** specializing in **L1 optimization**, **consensus mechanisms**, and **applied cryptography**. My work focuses on pushing the boundaries of blockchain scalability while maintaining the security guarantees that make decentralized systems trustworthy.
 
+```rust
+struct Engineer {
+    focus: &'static [&'static str],
+    languages: &'static [&'static str],
+    philosophy: &'static str,
+}
 
----
-
-### **🛠️ Tech Stack**  
-Here are some of the technologies I work with:  
- 
-### **Languages**  
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-
-### **Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-### **Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![GNU Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-000000?style=for-the-badge&logo=solana&logoColor=white)
----
-
-### **📈 GitHub Stats**  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saraswat123&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saraswat123&layout=compact&theme=radical)  
+const ME: Engineer = Engineer {
+    focus: &["L1 Optimization", "Consensus Protocols", "MEV Research", "DeFi Infrastructure"],
+    languages: &["Rust", "Go", "C++", "Solidity"],
+    philosophy: "Correctness first, then performance—but never compromise on either.",
+};
+```
 
 ---
 
-### **🚀 Featured Projects**  
-Here are some of my favorite projects:  
+## 🛠️ Technical Expertise
 
-- **[AquafySystems](https://github.com/Saraswat123/AquafySystems-SIH-)**: A decentralized, retrofittable greywater treatment unit with IoT-ML-based smart application monitoring system and advanced filtration for sustainable water reuse.  
-- **[AgroTech](https://github.com/Saraswat123/AgroTech-Farmers-)**: A compact IoT-ML-powered system with soil parameter sensors for real-time crop optimization, offering decentralized, data-driven farmer-customer recommendations and direct market access.  
-- **[OceanTech](https://github.com/Saraswat123/OCF--Ocean-Tech)**: A lightweight device for collecting ocean wave parameters to manage coastal risks like landslides and bridge collapse.  
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Cryptography
+- Zero-Knowledge Proofs (SNARKs, STARKs)
+- BLS Signatures & Aggregation
+- Hash Functions & Merkle Trees
+- Threshold Cryptography
+- Verifiable Random Functions (VRF)
+
+</td>
+<td width="50%">
+
+### ⚙️ Protocol Engineering
+- Consensus Layer Optimization
+- Fork Choice Rules
+- Validator Client Architecture
+- SSZ Serialization
+- LibP2P Networking
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📈 DeFi & MEV
+- MEV Extraction & Mitigation
+- Inclusion Lists (FOCIL)
+- Proposer-Builder Separation
+- Stablecoin Mechanisms
+- AMM Design & Optimization
+
+</td>
+<td width="50%">
+
+### 🚀 Performance
+- Low-Latency Systems
+- Memory-Efficient Data Structures
+- SIMD Optimizations
+- Concurrent Programming
+- Benchmarking & Profiling
+
+</td>
+</tr>
+</table>
 
 ---
 
-### **🏆 Achievements**  
-Here are some of my notable achievements:  
+## 🏢 Organizations
 
-- **🏅 Smart India Hackathon (SIH) 2023**: Secured the **Runners-Up** position, competing against 500+ teams nationwide. [Link](https://drive.google.com/file/d/138vVOmZOpTKiLcySsGT2cAORMS2-W4EE/view)  
-- **🏆 Vishwakarma Award 2024**: Achieved the **Champion** title at IIT Hyderabad, competing against 526+ teams, with top 15 finishes at IIT Bombay and IIT Delhi. [Link](https://drive.google.com/file/d/1CYZLiNnKu7OSZ95bbH2qPDFRFYKa8WgL/view?usp=drivesdk)  
-- **🥉 L&T Hackathon Water Challenge 2024**: Secured **top 3** position among 300+ teams nationwide. [Link](https://drive.google.com/file/d/13GEm7mv2zTsS8SaZFLXyjERP5t0Haspt/view)  
-- **Mentorship**: Mentored 500+ students for internal hackathons and served as a mentor for **SIH 2024 Finals**, invited by the Government of India.  
-
----
-
-### **📚 Blog Posts**  
-  Article-Whitepapers-Researchpapers. Check out my latest posts:  
-- [AI-Governed ZK-SNARKs & L2 Scaling with CI/CD Pipelines: A Decentralized Infrastructure Framework](https://medium.com/@saraswatdas94/ai-governed-zk-snarks-l2-scaling-with-ci-cd-pipelines-a-decentralized-infrastructure-framewor-b78d760be181)  
-- [SW/HW Co-optimization Strategy for Large Language Models (LLMs)](https://medium.com/@saraswatdas94/sw-hw-co-optimization-strategy-for-large-language-models-llms-686388ea2a58)  
-
----
-
-### **🔗 Connect with Me**  
-Let’s connect and collaborate!  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saraswat-das/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/SaraswatDas13)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saraswat123)  
+<p align="center">
+  <a href="https://offchainlabs.com/">
+    <img src="https://img.shields.io/badge/Offchain_Labs-1A1A2E?style=for-the-badge&logo=arbitrum&logoColor=28A0F0" alt="Offchain Labs"/>
+  </a>
+  <a href="https://ethereum.org/">
+    <img src="https://img.shields.io/badge/Ethereum_Foundation-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+  </a>
+  <a href="https://gridplus.io/">
+    <img src="https://img.shields.io/badge/GridPlus-00D4AA?style=for-the-badge&logoColor=white" alt="GridPlus"/>
+  </a>
+</p>
 
 ---
 
-### **🎉 Fun Section**  
-Here’s a random developer joke for you:  
+## 📊 Contribution Breakdown
 
-![Jokes Card](https://readme-jokes.vercel.app/api)  
+```
+Code Review  ████████████████████░░░░░░░░░░░  38%
+Pull Requests ███████████░░░░░░░░░░░░░░░░░░░░  22%
+Commits      ██████████████████░░░░░░░░░░░░░  35%
+Issues       ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%
+```
 
+---
+
+## 🔥 Recent Focus Areas
+
+- **Consensus Specifications** — Contributing optimizations to Ethereum's consensus layer
+- **Fork Choice Refinements** — Improving the reliability of chain selection algorithms  
+- **Prysm Client** — Performance enhancements for the Go-based Ethereum client
+- **Hash Tree Optimizations** — Efficient Merkle tree implementations via `hashtree`
+
+---
+
+## 📌 Featured Work
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### [ethereum/consensus-specs](https://github.com/ethereum/consensus-specs)
+*Consensus layer specifications for Ethereum*
+
+🔹 Fork choice optimizations  
+🔹 Validator performance improvements  
+🔹 Protocol correctness reviews
+
+</td>
+<td align="center" width="50%">
+
+### [OffchainLabs/prysm](https://github.com/OffchainLabs/prysm)
+*Ethereum consensus client in Go*
+
+🔹 Low-latency attestation processing  
+🔹 Memory optimization  
+🔹 Validator efficiency
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💡 Philosophy
+
+> *"In distributed systems, simplicity is security. Every unnecessary branch is a potential vulnerability; every removed line of code is a guaranteed bug fix."*
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://t.me/"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
+<div align="center">
+
+---
+
+*"Optimizing at the protocol layer so the entire ecosystem benefits."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
+
+</div>
 ---
 
 <!---
