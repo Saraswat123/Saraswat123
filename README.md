@@ -15,8 +15,7 @@
 
 ## 🔬 About Me
 
-I'm a **Protocol Engineer** specializing in **L1 optimization**, **consensus mechanisms**, and **applied cryptography**. My work focuses on pushing the boundaries of blockchain scalability while maintaining the security guarantees that make decentralized systems trustworthy.
-
+I'm a **Protocol Engineer** specializing in **L1 optimization**, **consensus mechanisms**, and **applied cryptography**.
 ```rust
 struct Engineer {
     focus: &'static [&'static str],
@@ -82,31 +81,7 @@ const ME: Engineer = Engineer {
 </tr>
 </table>
 
----
 
-## 🏢 Organizations
-
-<p align="center">
-  <a href="https://offchainlabs.com/">
-    <img src="https://img.shields.io/badge/Offchain_Labs-1A1A2E?style=for-the-badge&logo=arbitrum&logoColor=28A0F0" alt="Offchain Labs"/>
-  </a>
-  <a href="https://ethereum.org/">
-    <img src="https://img.shields.io/badge/Ethereum_Foundation-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
-  </a>
-  <a href="https://gridplus.io/">
-    <img src="https://img.shields.io/badge/GridPlus-00D4AA?style=for-the-badge&logoColor=white" alt="GridPlus"/>
-  </a>
-</p>
-
----
-
-## 📊 Contribution Breakdown
-
-```
-Code Review  ████████████████████░░░░░░░░░░░  38%
-Pull Requests ███████████░░░░░░░░░░░░░░░░░░░░  22%
-Commits      ██████████████████░░░░░░░░░░░░░  35%
-Issues       ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   5%
 ```
 
 ---
@@ -156,8 +131,6 @@ Issues       ██░░░░░░░░░░░░░░░░░░░░�
 
 
 *"Optimizing at the protocol layer so the entire ecosystem benefits."*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat-square)
 
 </div>
 ---
