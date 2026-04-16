@@ -1,12 +1,10 @@
 <div align="center">
 
-# ⚡ Rust Protocol Engineer & Cryptographer
+# ⚡ Rust Protocol Engineer 
 
-[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)](https://ethereum.org)
+
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
-[![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black)](https://solana.com/)
-
 *  • 🌱 Focus on verifiable, secure and reliable softwares
   • ⚡ Software engineer*
 
@@ -16,7 +14,7 @@
 
 ## 🔬 About Me
 
-I'm a **Protocol Engineer** specializing in **L1 optimization**, **consensus mechanisms**, and **applied cryptography**. Currently diving deep into Ethereum CL (ePBS), Solana Core internals, and the intersection of TEEs and ZK.
+I'm a **Protocol Engineer** specializing in **L1 optimization**, **consensus mechanisms**, and **applied cryptography**.
 
 ```rust
 struct Engineer {
