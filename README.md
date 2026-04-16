@@ -7,7 +7,8 @@
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
 [![Solana](https://img.shields.io/badge/Solana-14F195?style=for-the-badge&logo=solana&logoColor=black)](https://solana.com/)
 
-*Engineering the foundations of Consensus, MEV, and Privacy-Preserving Systems*
+*  • 🌱 Focus on verifiable, secure and reliable softwares
+  • ⚡ Software engineer*
 
 </div>
 
@@ -107,7 +108,6 @@ const ME: Engineer = Engineer {
 
 ### ⚡ Core Protocol Clients
 - **[sigp/lighthouse](https://github.com/sigp/lighthouse)** - Contributor to Ethereum's Rust-based Consensus Client.
-- **[anza-xyz/agave](https://github.com/anza-xyz/agave)** - Researching and optimizing Solana's validator core.
 - **[flashbots/rbuilder](https://github.com/flashbots/rbuilder)** - Exploring next-gen Rust block building for PBS.
 
 ---
@@ -123,7 +123,6 @@ const ME: Engineer = Engineer {
 ## 📫 Connect & Research
 
 - **Twitter/X**: [@Saraswat123](https://twitter.com/Saraswat123)
-- **Ethereum Research**: [ethresear.ch](https://ethresear.ch)
 - **LinkedIn**: [Senior Protocol Engineer](https://linkedin.com)
 
 </div>
