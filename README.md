@@ -12,7 +12,7 @@
 
 ---
 
-## 🔬 About Me
+##  About Me
 
 I'm a **Protocol Engineer** specializing in **L1 optimization**, **consensus mechanisms**, and **applied cryptography**.
 
