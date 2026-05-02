@@ -2,6 +2,7 @@
 
 # ⚡ Rust Protocol Engineer 
 
+Gmail- saraswatdas94@gmail.com
 
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
