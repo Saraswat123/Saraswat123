@@ -1,13 +1,13 @@
 <div align="center">
 
-# ⚡ Rust Protocol Engineer 
+#  Rust Protocol Engineer 
 
 email- saraswatdas94@gmail.com
 
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
-*  • 🌱 Focus on verifiable, secure and reliable softwares
-  • ⚡ Software engineer*
+*  •  Focus on verifiable, secure and reliable softwares
+  • Software engineer*
 
 </div>
 
