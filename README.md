@@ -119,10 +119,6 @@ const ME: Engineer = Engineer {
 
 ---
 
-## 📫 Connect & Research
-
-- **Twitter/X**: [@Saraswat123](https://twitter.com/Saraswat123)
-- **LinkedIn**: [Senior Protocol Engineer](https://linkedin.com)
 
 </div>
 <!---
