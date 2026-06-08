@@ -111,10 +111,6 @@ const ME: Engineer = Engineer {
 
 ---
 
-## 💡 Philosophy
-
-> *"In distributed systems, simplicity is security. Every unnecessary branch is a potential vulnerability; every removed line of code is a guaranteed bug fix."*
-
 *"Optimizing at the protocol layer so the entire ecosystem benefits."*
 
 ---
