@@ -1,123 +1,71 @@
 <div align="center">
 
-#  Rust Protocol Engineer 
+# Saraswat Das — Computational Engineer
 
-email- saraswatdas94@gmail.com
+**saraswatdas94@gmail.com**
 
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://golang.org/)
-*  •  Focus on verifiable, secure and reliable softwares
-  • Software engineer*
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 </div>
 
 ---
 
-##  About Me
-
-I'm a **Protocol Engineer** specializing in **L1 optimization**, **consensus mechanisms**, and **applied cryptography**.
-
 ```rust
 struct Engineer {
-    focus: &'static [&'static str],
-    languages: &'static [&'static str],
-    infrastructure: &'static [&'static str],
-    philosophy: &'static str,
+    building:     &'static [&'static str],
+    shipped:      &'static [&'static str],
+    researching:  &'static [&'static str],
+    stack:        &'static [&'static str],
 }
 
 const ME: Engineer = Engineer {
-    focus: &[
-        "Ethereum CL & ePBS (EIP-7732)",
-        "Solana Core Protocol (Agave/Alpenglow)",
-        "MEV Infrastructure (rbuilder/Flashbots)",
-        "Privacy-Preserving Protocols (ZK/TEE)",
+    building: &[
+        "Distributed async agent infrastructure (Rust + Tokio)",
+        "Production document AI pipelines (10K+ forms/month)",
+        "Ethereum protocol tooling (EIP-7805 FOCIL + DVT)",
     ],
-    languages: &["Rust", "Go", "C++", "Solidity"],
-    infrastructure: &["TEEs (QuorumOS)", "zkVMs (zkMIPS)", "P2P (eBPF/LibP2P)", "Distributed Systems"],
-    philosophy: "Correctness first, then performance—but never compromise on either.",
+    shipped: &[
+        "rysen-lpc-ocr  — async OCR pipeline, 15 multi-tenant locations",
+        "Rysen-Learning-System — LMS + 15-tool agentic loop, 50+ staff",
+        "job-agent — AI job automation, Claude + Gmail API + Playwright",
+    ],
+    researching: &[
+        "ZK proofs for agent computation (RISC Zero)",
+        "P2P networking via eBPF + libp2p",
+        "TEE-based agent sandboxing (AWS Nitro)",
+    ],
+    stack: &[
+        "Rust · Python · FastAPI · Celery · PostgreSQL · Redis",
+        "Tokio · libp2p · RISC Zero · Docker · OpenTelemetry",
+    ],
 };
 ```
 
 ---
 
-## 🛠️ Technical Expertise
+## Shipped (Production)
 
-<table>
-<tr>
-<td width="50%">
+| Project | What | Scale |
+|---------|------|-------|
+| [rysen-lpc-ocr](https://github.com/Saraswat123/rysen-lpc-ocr) | Async document AI pipeline — FastAPI + Celery + Redis + Vision LLM | 10K+ forms/month, 15 locations |
+| [Rysen-Learning-System](https://github.com/Saraswat123/Rysen-Learning-System) | LMS with 15-tool agentic loop — Next.js + Groq + PostgreSQL | 50+ staff, 15 campuses |
+| [job-agent](https://github.com/Saraswat123/job-agent) | End-to-end job search automation — Claude API + Gmail + Playwright | 46 applications, Day 1 |
 
-### 🔐 Cryptography & Privacy
-- Zero-Knowledge Proofs (SNARKs/STARKs)
-- TEE-based Computation (**QuorumOS**)
-- Threshold Cryptography & MPC
-- Noir / Semaphore for Anon-interactions
-- Client-side Proving (**ProveKit**)
+## Protocol Research
 
-</td>
-<td width="50%">
+| Project | What |
+|---------|------|
+| [dvt-focil](https://github.com/Saraswat123/dvt-focil) | EIP-7805 FOCIL for DVT clusters — Rust, client-agnostic (Lighthouse / Prysm / Teku) |
+| [axiom-engine](https://github.com/Saraswat123/axiom-engine) | ZK-augmented AI agent engine — RISC Zero + libp2p gossipsub + AWS Nitro TEE |
+| [p2pflow](https://github.com/Saraswat123/p2pflow) | Ethereum P2P traffic analysis — eBPF CO-RE kernel probes |
 
-### ⚙️ Protocol Engineering
-- Consensus Layer Optimization (ePBS)
-- Solana Validator Internals (Agave/Firedancer)
-- P2P Analysis with eBPF (**p2pflow**)
-- Distributed Systems Simulation (**Testground**)
-- Fork Choice Rules & Validator Arch
+## Currently
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📈 MEV & PBS
-- **rbuilder** (Rust) & **mev-boost** (Go)
-- Proposer-Builder Separation (ePBS)
-- Low-latency Block Building
-- Strategy Development & Backtesting
-- In-protocol MEV Mitigation
-
-</td>
-<td width="50%">
-
-### 🚀 Performance & Systems
-- Low-Latency Systems in Rust/C++
-- SIMD & Hardware Acceleration (**ICICLE**)
-- GPU-accelerated SNARKs (Groth16)
-- Memory-Efficient Data Structures
-- zkVM Architecture (**zkMIPS**)
-
-</td>
-</tr>
-</table>
+- Rust async depth — Tokio internals, distributed consensus
+- OpenTelemetry instrumentation across async pipelines
+- Contributing to [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) — document extraction hallucination benchmark
 
 ---
 
-## 📌 Featured Protocol Work & Research
-
-### 🌐 Distributed Systems & P2P
-- **[testground/testground](https://github.com/testground/testground)** - Scaling and simulating distributed/P2P systems.
-- **[netbound/p2pflow](https://github.com/netbound/p2pflow)** - Ethereum p2p traffic analysis with eBPF.
-- **[tkhq/qos](https://github.com/tkhq/qos)** - QuorumOS: Computation layer for Trusted Execution Environments (TEEs).
-
-### 🛡️ Privacy & Zero-Knowledge
-- **[hashcloak/semaphore-noir](https://github.com/hashcloak/semaphore-noir)** - ZK protocol for anonymous interactions via Noir.
-- **[zkMIPS/zkMIPS](https://github.com/zkMIPS/zkMIPS)** - Universal zkVM on MIPS32r2.
-- **[worldfnd/ProveKit](https://github.com/worldfnd/ProveKit)** - Client-side zero-knowledge proving.
-- **[ingonyama-zk/icicle-snark](https://github.com/ingonyama-zk/icicle-snark)** - Groth16 over ICICLE for hardware-accelerated ZK.
-- **[cysic-labs/ZPrize-23-Prize1](https://github.com/cysic-labs/ZPrize-23-Prize1)** - Competitive hardware-accelerated ZK optimizations.
-
-### ⚡ Core Protocol Clients
-- **[sigp/lighthouse](https://github.com/sigp/lighthouse)** - Contributor to Ethereum's Rust-based Consensus Client.
-- **[flashbots/rbuilder](https://github.com/flashbots/rbuilder)** - Exploring next-gen Rust block building for PBS.
-
----
-
-*"Optimizing at the protocol layer so the entire ecosystem benefits."*
-
----
-
-
-</div>
-<!---
-Saraswat123/Saraswat123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Computational systems that ship, scale, and prove correctness.*
