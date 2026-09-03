@@ -12,37 +12,7 @@
 ---
 
 ```rust
-struct Engineer {
-    building:     &'static [&'static str],
-    shipped:      &'static [&'static str],
-    researching:  &'static [&'static str],
-    stack:        &'static [&'static str],
-}
 
-const ME: Engineer = Engineer {
-    building: &[
-        "Distributed async agent infrastructure (Rust + Tokio)",
-        "Production document AI pipelines (10K+ forms/month)",
-        "Ethereum protocol tooling (EIP-7805 FOCIL + DVT)",
-    ],
-    shipped: &[
-        "rysen-lpc-ocr  — async OCR pipeline, 15 multi-tenant locations",
-        "Rysen-Learning-System — LMS + 15-tool agentic loop, 50+ staff",
-        "job-agent — AI job automation, Claude + Gmail API + Playwright",
-    ],
-    researching: &[
-        "ZK proofs for agent computation (RISC Zero)",
-        "P2P networking via eBPF + libp2p",
-        "TEE-based agent sandboxing (AWS Nitro)",
-    ],
-    stack: &[
-        "Rust · Python · FastAPI · Celery · PostgreSQL · Redis",
-        "Tokio · libp2p · RISC Zero · Docker · OpenTelemetry",
-    ],
-};
-```
-
----
 
 ## Shipped (Production)
 
