@@ -2,7 +2,7 @@
 
 Tech lead building multi-agent infrastructure and the products around it. 
 
-Portfolio with case studies, diagrams and the evidence behind each number: **https://saraswat123.github.io/**
+Know more about my work: **https://saraswat123.github.io/**
 
 ---
 
