@@ -1,6 +1,6 @@
 # Saraswat Das
 
-Tech lead building multi-agent infrastructure and the products around it. Based in India, open to remote roles.
+Tech lead building multi-agent infrastructure and the products around it. 
 
 Portfolio with case studies, diagrams and the evidence behind each number: **https://saraswat123.github.io/**
 
