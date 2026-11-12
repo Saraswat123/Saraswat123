@@ -1,41 +1,56 @@
-<div align="center">
+# Saraswat Das
 
-# Saraswat Das — Computational Engineer
+Tech lead building multi-agent infrastructure and the products around it. Based in India, open to remote roles.
 
-**saraswatdas94@gmail.com**
-
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
-</div>
+Portfolio with case studies, diagrams and the evidence behind each number: **https://saraswat123.github.io/**
 
 ---
 
-```rust
+## What I build
 
+I take frontier LLMs and agent frameworks and turn them into systems a team uses every day: the agent loop, the tool layer, the guardrails, the traces and the handover.
 
-## Shipped (Production)
+| Layer         | What I work with                                                                        |
+| ------------- | --------------------------------------------------------------------------------------- |
+| Agents        | LangGraph, CrewAI, LangChain deepagents, Claude Code headless runs, approval gates      |
+| Tool layer    | MCP servers in Rust (rmcp) and Python                                                   |
+| Safety        | token ceilings, egress allowlists, halt switch, post-checks, hash-chained action ledger |
+| Observability | OpenTelemetry, Phoenix, per-run token and cost audit from transcripts                   |
+| Data          | PostgreSQL, SQLite, DuckDB, Redis, ChromaDB, fastembed                                  |
+| Product       | FastAPI, Next.js, React, Docker, Vercel, Supabase                                       |
 
-| Project | What | Scale |
-|---------|------|-------|
-| [rysen-lpc-ocr](https://github.com/Saraswat123/rysen-lpc-ocr) | Async document AI pipeline — FastAPI + Celery + Redis + Vision LLM | 10K+ forms/month, 15 locations |
-| [Rysen-Learning-System](https://github.com/Saraswat123/Rysen-Learning-System) | LMS with 15-tool agentic loop — Next.js + Groq + PostgreSQL | 50+ staff, 15 campuses |
-| [job-agent](https://github.com/Saraswat123/job-agent) | End-to-end job search automation — Claude API + Gmail + Playwright | 46 applications, Day 1 |
+## Projects
 
-## Protocol Research
+### Networking Agent: [Networking-Agent.md-](https://github.com/Saraswat123/Networking-Agent.md-)
 
-| Project | What |
-|---------|------|
-| [dvt-focil](https://github.com/Saraswat123/dvt-focil) | EIP-7805 FOCIL for DVT clusters — Rust, client-agnostic (Lighthouse / Prysm / Teku) |
-| [axiom-engine](https://github.com/Saraswat123/axiom-engine) | ZK-augmented AI agent engine — RISC Zero + libp2p gossipsub + AWS Nitro TEE |
-| [p2pflow](https://github.com/Saraswat123/p2pflow) | Ethereum P2P traffic analysis — eBPF CO-RE kernel probes |
+A Rust MCP server with 56 tools for prospect research, scoring, email verification and a sent log. Outreach goes through an OAuth-based sender, not an API key.
 
-## Currently
+### Rysen Learning System: [Rysen-Learning-System](https://github.com/Saraswat123/Rysen-Learning-System)
 
-- Rust async depth — Tokio internals, distributed consensus
-- OpenTelemetry instrumentation across async pipelines
-- Contributing to [lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) — document extraction hallucination benchmark
+LMS covering onboarding, training, testing, certification and live tracking, with an in-product agent (Rysen AI) that runs a 15-tool loop. Next.js, Groq, PostgreSQL, Prisma. 78 test cases (counted statically from the repo). Built for 15 campuses and 50+ educators.
 
----
+### Document AI pipeline: [rysen-lpc-ocr](https://github.com/Saraswat123/rysen-lpc-ocr)
 
-*Computational systems that ship, scale, and prove correctness.*
+Async pipeline for scanned forms: FastAPI, Celery, Redis, PostgreSQL and a vision LLM, multi-tenant across 15 locations.
+
+### Vault Harness (private repo, design public)
+
+A harness that lets an agent complete a purchase without ever seeing the card: sealed card (X25519, HKDF, AES-GCM), enclave swap, WebAuthn approval, a guard pipeline, Stripe in test mode. 219 tests, 36 of 36 on the eval set. AWS Nitro deployment is designed, not run. Diagrams and trust zones: https://saraswat123.github.io/work/vault-harness/
+
+## Open source
+
+Merged in [moltis-org/moltis](https://github.com/moltis-org/moltis), a Rust agent gateway:
+
+- [#1247](https://github.com/moltis-org/moltis/pull/1247) fix(sandbox): drop DMI sysfs masks on arm64 Docker daemons
+- [#1249](https://github.com/moltis-org/moltis/pull/1249) fix(auth): let Docker loopback-only deployments count as local
+- [#1252](https://github.com/moltis-org/moltis/pull/1252) docs(docker): document the bind-mount permission fix for fresh deploys
+
+## How I work
+
+- Every number on my portfolio is labelled: counted from files, verified by photo or badge, or self-reported. See https://saraswat123.github.io/numbers/
+- Each case study says what is tested, what is live and what is only designed.
+- I hand over with a runbook: what it does, how to run it, how to tell it worked, what breaks first.
+
+## Contact
+
+[Portfolio](https://saraswat123.github.io/) · [LinkedIn](https://www.linkedin.com/in/saraswat-das/)
